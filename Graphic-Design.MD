@@ -1,14 +1,22 @@
 ## ELEMENTS OF DESIGN
-Balance: Blanace refers to the arrangement.
+
+[Principles of Design](https://www.getty.edu/education/teachers/building_lessons/principles_design.pdf)
+
+Balance: Balance refers to the arrangement.
 
 Contrast: Contrast refers to the use of different elements (such as color, value, and texture) to create interest and emphasis.
 
 Emphasis: Emphasis refers to the focal point of a design, and can be created through the use of contrast, scale, and placement.
 
-Movement: ??
-Unity: Unity refers to the sense of cohesiveness in a design, and can be achieved through the use of consistent elements and ?
+Movement:  is the path the viewer’s eye takes through the work of art, often to focal
+areas. Such movement can be directed along lines, edges, shape, and color within the
+work of art. 
 
-Variety: Variety refers to the use of differnet elements in a design to create interest and visual tension.
+Unity: is the feeling of harmony between all parts of the work of art, which creates
+a sense of completeness.
+
+Variety: Variety refers to the use of different elements in a design to create interest and visual tension.
+
 
 
 ## Design software and tools
