@@ -52,6 +52,7 @@ Variety refers to the use of different elements in a design to create interest a
 [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en)
 
 [Icons8](https://icons8.com/)
+[MidJourney ](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F)
 
 
 ## Design Process
