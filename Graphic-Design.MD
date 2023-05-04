@@ -55,6 +55,8 @@ Variety refers to the use of different elements in a design to create interest a
 
 [MidJourney ](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F)
 
+[Pacdora](https://www.pacdora.com/dielines/all)
+
 
 ## Design Process
 
