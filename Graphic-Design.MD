@@ -41,6 +41,8 @@ Variety refers to the use of different elements in a design to create interest a
 
 [ColorHunt](https://colorhunt.co/)
 
+[Coolors](https://coolors.co/)
+
 [Canva Color Wheel](https://www.canva.com/colors/color-wheel/)
 
 [TypeScale](https://typescale.com/)
